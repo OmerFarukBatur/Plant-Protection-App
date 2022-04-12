@@ -1,4 +1,4 @@
-# Bitkileri Korumak İçin Yapılmış Bir Çalımadır. 
+# Bitkileri Korumak İçin Yapılmış Bir Çalışmadır. 
 
 Ticari degeri olan bitkilerin zarar gördükleri canlıların görsel verileri veya oluşan zarar görüntüsüne tespit edilesi ile zararın en aza indirgenmesi için oluşturulmuştur. Mobil uygulama içerisinde toplanan verilerden eğitilen bir derin ögrenme modeli bulunmaktadır.
 
